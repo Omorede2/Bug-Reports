@@ -1,0 +1,15 @@
+Steps to reproduce the bug
+ - Beta build - Start the game and game object will move automatically
+Current and expected behaviour
+  - Expected Behavior: Pressing up or down on the keyboard should point the game object (Plane) up or down while it, constantly moves foward to the goal
+  - Current Behavior: Pressing up or down does nothing, Game Object (Plane) moves in the wrong direction regardless of input.
+Recording or screenshot
+
+System information
+  - Operating system: Windows 10 ver.21H2
+  - Unity Ver: 2020.3.18f1
+  - Time: 01/08/2022 5:07pm MST
+
+User ID [if relevant]
+
+Impact [if known]
